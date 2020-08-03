@@ -1,4 +1,6 @@
-### Hi there 👋
+### Pwn ⚡
+
+[![S3cur3Th1sSh1t's github stats](https://github-readme-stats.vercel.app/api?username=S3cur3Th1sSh1t)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **S3cur3Th1sSh1t/S3cur3Th1sSh1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
