@@ -1,6 +1,14 @@
-### Pwn ⚡
+<h2>S3cur3Th1sSh1t!</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=S3cur3Th1sSh1t&show_icons=true&theme=dark" width="380">
+<p><em>5+ years penetration testing<br>
+  Scripting in my square time, pwning ⚡ at work!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-[![S3cur3Th1sSh1t's github stats](https://github-readme-stats.vercel.app/api?username=S3cur3Th1sSh1t&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Twitter: S3cur3Th1sSh1t](https://img.shields.io/twitter/follow/ShitSecure?style=flat-square)](https://twitter.com/ShitSecure)
+[![GitHub S3cur3Th1sSh1t](https://img.shields.io/github/followers/S3cur3Th1sSh1t?label=follow%20github&style=flat-square)](https://github.com/S3cur3Th1sSh1t)
+
+
+<br>
 
 <!--
 **S3cur3Th1sSh1t/S3cur3Th1sSh1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
