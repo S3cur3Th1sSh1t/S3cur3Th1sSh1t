@@ -1,7 +1,7 @@
 <h2>S3cur3Th1sSh1t!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=S3cur3Th1sSh1t&show_icons=true&theme=dark" width="380">
 <p><em>5+ years penetration testing<br>
-  Scripting in my square time, pwning ⚡ at work!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Scripting in my spare time, pwning ⚡ at work!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: S3cur3Th1sSh1t](https://img.shields.io/twitter/follow/ShitSecure?style=flat-square)](https://twitter.com/ShitSecure)
