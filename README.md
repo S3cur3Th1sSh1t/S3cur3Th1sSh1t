@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s3cur3th1ssh1t&label=Profile%20views&color=0e75b6&style=flat" alt="s3cur3th1ssh1t" /> </p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s3cur3th1ssh1t" alt="s3cur3th1ssh1t" /></a> </p>
+</p>
 
 <h4 align="left">Personal blog:</h4>
 <p align="left">
