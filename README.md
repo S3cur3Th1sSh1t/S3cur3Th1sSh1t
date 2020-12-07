@@ -7,6 +7,14 @@
 [![Twitter: S3cur3Th1sSh1t](https://img.shields.io/twitter/follow/ShitSecure?style=flat-square)](https://twitter.com/ShitSecure)
 [![GitHub S3cur3Th1sSh1t](https://img.shields.io/github/followers/S3cur3Th1sSh1t?label=follow%20github&style=flat-square)](https://github.com/S3cur3Th1sSh1t)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s3cur3th1ssh1t&label=Profile%20views&color=0e75b6&style=flat" alt="s3cur3th1ssh1t" /> </p>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s3cur3th1ssh1t" alt="s3cur3th1ssh1t" /></a> </p>
+
+<h4 align="left">Personal blog:</h4>
+<p align="left">
+<a href="https://s3cur3th1ssh1t.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://s3cur3th1ssh1t.github.io/" height="30" width="40" /></a>
+</p>
 
 <br>
 
