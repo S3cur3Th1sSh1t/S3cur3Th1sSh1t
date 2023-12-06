@@ -18,6 +18,10 @@
 <a href="https://s3cur3th1ssh1t.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://s3cur3th1ssh1t.github.io/" height="30" width="40" /></a>
 </p>
 
+If you want to support my work and or make regular use of my toolings :heart::
+- [BuyMeaCoffee](https://www.buymeacoffee.com/s3cur3th1ssh1t)
+- [Github Sponsors](https://github.com/sponsors/S3cur3Th1sSh1t/)
+- [Patreon](https://www.patreon.com/S3cur3Th1sSh1t)
 <br>
 
 <!--
