@@ -24,6 +24,8 @@ If you want to support my work and or make regular use of my toolings :heart::
 - [Patreon](https://www.patreon.com/S3cur3Th1sSh1t)
 <br>
 
+<a rel="me" href="https://infosec.exchange/@S3cur3Th1sSh1T">Mastodon</a>
+
 <!--
 **S3cur3Th1sSh1t/S3cur3Th1sSh1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
