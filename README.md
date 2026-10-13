@@ -24,6 +24,10 @@ If you want to support my work and or make regular use of my toolings :heart::
 - [Patreon](https://www.patreon.com/S3cur3Th1sSh1t)
 <br>
 
+When I'm not hacking I'm vibe coding multiplayer Browser-Games at:
+
+- [multiplayer-snake.com](https://www.multiplayer-snake.com/)
+
 <a rel="me" href="https://infosec.exchange/@S3cur3Th1sSh1T">Mastodon</a>
 
 <!--
