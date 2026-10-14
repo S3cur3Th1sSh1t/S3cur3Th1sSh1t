@@ -9,7 +9,6 @@
 [![YouTube S3cur3Th1sSh1t](https://img.shields.io/youtube/channel/subscribers/UC27i77nEwKE8hffrxNqXNOg?label=follow%20Youtube&style=social)](https://www.youtube.com/channel/UC27i77nEwKE8hffrxNqXNOg)
 [![Twitch Status](https://img.shields.io/twitch/status/s3cur3th1sshlt?label=Follow%20Twitch&style=social)](https://www.twitch.tv/s3cur3th1sshlt)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s3cur3th1ssh1t&label=Profile%20views&color=0e75b6&style=flat" alt="s3cur3th1ssh1t" /> </p>
 <br>
 </p>
 
